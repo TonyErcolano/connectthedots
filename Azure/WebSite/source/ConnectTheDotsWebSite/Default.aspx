@@ -30,7 +30,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Connect The Dots</title>
+    <title>Connect BIG BIG The Dots</title>
 
     <!-- general styles -->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.css" />
